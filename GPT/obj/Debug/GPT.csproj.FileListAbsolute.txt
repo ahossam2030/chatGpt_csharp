@@ -1,0 +1,120 @@
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\obj\Debug\GPT.csproj.AssemblyReference.cache
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\obj\Debug\GPT.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\GPT.exe.config
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\GPT.exe
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\GPT.pdb
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Buffers.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Memory.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Text.Json.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.ValueTuple.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Buffers.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Memory.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Text.Json.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.ValueTuple.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\obj\Debug\GPT.csproj.CopyComplete
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\obj\Debug\GPT.exe
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\obj\Debug\GPT.pdb
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\RestClient.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Security.Permissions.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Security.Permissions.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Ahmed Hossam\source\repos\GPT\GPT\obj\Debug\GPT.csproj.App.config
+E:\GPT\GPT\bin\Debug\GPT.exe.config
+E:\GPT\GPT\bin\Debug\GPT.exe
+E:\GPT\GPT\bin\Debug\GPT.pdb
+E:\GPT\GPT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\GPT\GPT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\GPT\GPT\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\GPT\GPT\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\GPT\GPT\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\GPT\GPT\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\GPT\GPT\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\GPT\GPT\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\GPT\GPT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\GPT\GPT\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\GPT\GPT\bin\Debug\Newtonsoft.Json.dll
+E:\GPT\GPT\bin\Debug\RestClient.dll
+E:\GPT\GPT\bin\Debug\System.Buffers.dll
+E:\GPT\GPT\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\GPT\GPT\bin\Debug\System.Memory.dll
+E:\GPT\GPT\bin\Debug\System.Net.Http.Extensions.dll
+E:\GPT\GPT\bin\Debug\System.Net.Http.Primitives.dll
+E:\GPT\GPT\bin\Debug\System.Numerics.Vectors.dll
+E:\GPT\GPT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\GPT\GPT\bin\Debug\System.Security.AccessControl.dll
+E:\GPT\GPT\bin\Debug\System.Security.Permissions.dll
+E:\GPT\GPT\bin\Debug\System.Security.Principal.Windows.dll
+E:\GPT\GPT\bin\Debug\System.Text.Encodings.Web.dll
+E:\GPT\GPT\bin\Debug\System.Text.Json.dll
+E:\GPT\GPT\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\GPT\GPT\bin\Debug\System.ValueTuple.dll
+E:\GPT\GPT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\GPT\GPT\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\GPT\GPT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\GPT\GPT\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\GPT\GPT\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\GPT\GPT\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\GPT\GPT\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\GPT\GPT\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\GPT\GPT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\GPT\GPT\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\GPT\GPT\bin\Debug\Newtonsoft.Json.xml
+E:\GPT\GPT\bin\Debug\System.Buffers.xml
+E:\GPT\GPT\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\GPT\GPT\bin\Debug\System.Memory.xml
+E:\GPT\GPT\bin\Debug\System.Net.Http.Extensions.xml
+E:\GPT\GPT\bin\Debug\System.Net.Http.Primitives.xml
+E:\GPT\GPT\bin\Debug\System.Numerics.Vectors.xml
+E:\GPT\GPT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\GPT\GPT\bin\Debug\System.Security.AccessControl.xml
+E:\GPT\GPT\bin\Debug\System.Security.Permissions.xml
+E:\GPT\GPT\bin\Debug\System.Security.Principal.Windows.xml
+E:\GPT\GPT\bin\Debug\System.Text.Encodings.Web.xml
+E:\GPT\GPT\bin\Debug\System.Text.Json.xml
+E:\GPT\GPT\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\GPT\GPT\bin\Debug\System.ValueTuple.xml
+E:\GPT\GPT\obj\Debug\GPT.csproj.App.config
+E:\GPT\GPT\obj\Debug\GPT.csproj.AssemblyReference.cache
+E:\GPT\GPT\obj\Debug\GPT.csproj.CoreCompileInputs.cache
+E:\GPT\GPT\obj\Debug\GPT.csproj.CopyComplete
+E:\GPT\GPT\obj\Debug\GPT.exe
+E:\GPT\GPT\obj\Debug\GPT.pdb
